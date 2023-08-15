@@ -96,6 +96,8 @@ class ControllerCommonDashboard extends Controller {
             $this->load->controller('extension/currency/' . $this->config->get('config_currency_engine')."/currency" , $this->config->get('config_currency'));
 		}
 
-		$this->response->setOutput($this->load->view('common/dashboard', $data));
+        $data['module_custom_hello_visits'] = $this->url->link('common/custom_hello_visits', 'user_token=' . $this->session->data['user_token'], true);
+
+        $this->response->setOutput($this->load->view('common/dashboard', $data));
 	}
 }
