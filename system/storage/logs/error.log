@@ -1,0 +1,12 @@
+2023-08-15 5:16:45 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\catalog\controller\startup\startup.php on line 37
+2023-08-15 5:16:52 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:16:54 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:16:54 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:16:54 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:16:54 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:17:01 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:17:09 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:17:10 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:17:10 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:17:22 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
+2023-08-15 5:17:47 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in E:\xampp\htdocs\opencart\admin\controller\startup\startup.php on line 17
